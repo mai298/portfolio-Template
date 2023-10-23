@@ -1,0 +1,9 @@
+.skill-content h2{
+    color: white;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+.skill-content p{
+    color:white;
+    max-width: 50rem;
+}

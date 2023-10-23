@@ -1,0 +1,14 @@
+.client-content h2{
+    color: white;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+.client-content p{
+    color:white;
+    max-width: 40rem;
+    text-align: center;
+}
+
+img{
+    object-fit: cover;
+}

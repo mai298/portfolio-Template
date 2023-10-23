@@ -1,0 +1,15 @@
+.items{
+    width: 70%;
+    background-color: rgb(50, 50, 50);
+    border-radius: 0.5rem;
+    
+}
+
+.items-content h2{
+    color: white!important;
+}
+
+.items-content p{
+    color: white;
+    margin-top: 0;
+}

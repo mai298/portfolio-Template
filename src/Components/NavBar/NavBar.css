@@ -1,0 +1,48 @@
+
+.navbar-nav{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 0 auto;
+}
+.desktop-menu-list {
+    text-decoration: none;
+    cursor: pointer;
+    color: white !important;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid transparent;
+    box-sizing: border-box;
+}
+
+.desktop-menu-list:hover {
+    color: yellow!important;
+    border-bottom-color: yellow;
+}
+
+.logo{
+    object-fit: cover;
+    height:3rem;
+    width:4rem;
+}
+.desktop-btn{
+background: white!important;
+color: black!important;
+border: none !important;
+outline: none!important;
+padding: 0 1rem !important;
+border-radius: 2rem!important;
+
+}
+.contact-img{
+    object-fit: cover;
+    height: 1rem;
+    width: 1rem;
+    margin: 1rem;
+}
+
+.active{
+    color: yellow!important;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid yellow!important;
+
+}

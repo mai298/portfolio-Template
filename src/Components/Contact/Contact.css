@@ -1,0 +1,20 @@
+.contact-content h2{
+    color: white;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+.contact-content p{
+    color:white;
+    text-align: center;
+}
+
+.submit-btn{
+    width: 10rem;
+    height: 3rem;
+    background: white!important;
+    color: black!important;
+    border: none !important;
+    outline: none!important;
+    padding: 0 1rem !important;
+    border-radius: 2rem!important;
+}

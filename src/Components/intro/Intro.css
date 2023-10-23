@@ -1,0 +1,27 @@
+
+section{
+    overflow: hidden;
+}
+
+
+.content h2{
+    font-weight: bolder;
+    font-size: 45px;
+}
+
+.hire-btn{
+    background: white!important;
+    color: black!important;
+    border: none !important;
+    outline: none!important;
+    padding: 0 1rem !important;
+    border-radius: 2rem!important;
+    
+    }
+    .hire-img{
+        object-fit: cover;
+        height: 1rem;
+        width: 1rem;
+        margin: 1rem;
+    }
+    
