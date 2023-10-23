@@ -1,3 +1,10 @@
+#technologies used in this project:
+1-HTML
+2-CSS
+3-React-bootstrap
+4-Reactjs
+5-Email.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
