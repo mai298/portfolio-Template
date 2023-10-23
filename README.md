@@ -1,4 +1,4 @@
-#technologies used in this project:
+# technologies used in this project:
 1-HTML
 2-CSS
 3-React-bootstrap
