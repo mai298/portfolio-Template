@@ -1,3 +1,20 @@
+.navbar-items{
+    overflow: hidden;
+    background: rgb(30, 30, 30);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .navbar-nav{
     display: flex;

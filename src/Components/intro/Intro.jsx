@@ -11,7 +11,7 @@ export default function Intro() {
 <section  id="intro" className="pt-5 mt-5 text-start">
       <Container>
         <Row>
-          <Col lg={6} md={4} className="pt-5">
+          <Col lg={6} md={4} className="pt-5 mx-auto">
             <div className="content">
               <h4 style={{ color: 'white' }}>Hello,</h4>
               <h2 style={{ color: 'white' }}>
@@ -29,8 +29,8 @@ export default function Intro() {
               </Button>
             </div>
           </Col>
-          <Col lg={3} md={6} className="mx-auto">
-            <img src={bg} alt="bg" className="img-fluid bg" />
+          <Col lg={3} md={6} className='' >
+            <img src={bg} alt="bg" className="img-fluid bg mx-auto " />
           </Col>
         </Row>
       </Container>

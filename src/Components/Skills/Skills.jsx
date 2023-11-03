@@ -23,7 +23,7 @@ export default function Skills() {
 
         <Row className="mb-3">
           <Col>
-            <SkillRow imgSrc={ui} title="UI/UX design" />
+            <SkillRow imgSrc={ui} title="UI/UX design"  para="focuses on creating intuitive and visually appealing digital experiences that enhance user satisfaction and engagement."/>
           </Col>
         </Row>
 
@@ -32,7 +32,7 @@ export default function Skills() {
             <SkillRow
               imgSrc={website}
               title="Website design"
-              para="fdsdftyuytrdbnmkjtiroertuhfjdshdgf"
+              para="combines aesthetics and functionality to create visually appealing and user-friendly online experiences."
             />
           </Col>
         </Row>
@@ -42,7 +42,7 @@ export default function Skills() {
             <SkillRow
               imgSrc={appDesign}
               title="App design"
-              para="fdsdftyuytrdbnmkjtiroertuhfjdshdg"
+              para="seamlessly blends user interface (UI) and user experience (UX) principles to create visually captivating and intuitive mobile applications that enhance user engagement and satisfaction."
             />
           </Col>
         </Row>
